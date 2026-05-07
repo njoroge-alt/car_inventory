@@ -1,4 +1,3 @@
-{ "Cars": 
 [{"vin":"WBANA53525B231093","make":"Jaguar","model":"XK Series","year":1938,"color":"Orange"},
 {"vin":"5BZAF0AA1FN788146","make":"Honda","model":"Accord","year":1978,"color":"Khaki"},
 {"vin":"1FTMF1CW8AF147751","make":"Kia","model":"Optima","year":1967,"color":"Crimson"},
@@ -998,4 +997,4 @@
 {"vin":"1G6AB5RX0D0719107","make":"Volvo","model":"XC70","year":2013,"color":"Red"},
 {"vin":"3VWML7AJ6CM294155","make":"Audi","model":"200","year":1996,"color":"Goldenrod"},
 {"vin":"JTHBE5C24A5817172","make":"GMC","model":"Envoy XL","year":1954,"color":"Indigo"},
-{"vin":"WAUNF78P36A185241","make":"Ford","model":"Transit Connect","year":1986,"color":"Mauv"}]}
+{"vin":"WAUNF78P36A185241","make":"Ford","model":"Transit Connect","year":1986,"color":"Mauv"}]
